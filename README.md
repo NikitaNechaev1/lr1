@@ -9,6 +9,5 @@ a. Инструкцию по подготовке окружения <br />
      Открыть spyder - в нём открыть build_image_data.py<br />
      Отредактировать скрипт. См. историю изменений файла build_image_data.py<br />
      Написать в anaconda promt : python <адрес>\build_image_data.py --input <адрес>\input --output <адрес>\output<br />
-     Вы не восхитительны. Нашли к чему придраться<br />
 b. Пример вызова скрипта (4) <br />
  ![alt text](https://github.com/NikitaNechaev1/lr1/blob/NikitaNechaev1-updated_buil_image_data.py/image.png)
